@@ -14,7 +14,7 @@
 Связаться со мной можно в телеграм: @andrrey_a
 
 ## Проект "Предсказание поотребления электроэнергии в N-регионе России"
-[Блокнот]([https://skillbox.ru/media/](https://github.com/MadGot/Portfolio/blob/main/Electricity_prediction/Electricity_in_N_region_final.ipynb) "Перейти к блокноту")
+[Блокнот](https://github.com/MadGot/Portfolio/blob/main/Electricity_prediction/Electricity_in_N_region_final.ipynb "Перейти к блокноту")
 
 В рамках данного проекта мне предстояло на основании исторических данных в тренировочном датасете построить модель для предсказания потребления электроэнергии.
 Чему я научился: 
