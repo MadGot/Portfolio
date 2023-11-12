@@ -1,5 +1,5 @@
 # Портфолио
-![alt text](https://github.com/MadGot/Portfolio/blob/main/images/photo.jpg)
+![alt text](https://github.com/MadGot/Portfolio/blob/main/images/photo%201.jpg?raw=true)
 
 Привет! 
 Меня зовут Андрей, я - начинающий аналитик данных с опытом работы на промышленном предприятии и в IT-компании.
@@ -41,3 +41,19 @@
 - [x] определять метрики качества.
 
 ![alt text](https://github.com/MadGot/Portfolio/blob/main/images/ab_test.png)
+
+## Проект "Анализ данных онлайн-магазина из Великобритании"
+[Блокнот](https://github.com/MadGot/Portfolio/blob/main/UK_retail_analytics/UK_retail_analytics.ipynb "Перейти к блокноту")
+
+Это мой самостоятельный проект. На основе данных с Kaggle я провел аналитику транзакций онлайн-магазина, провел когортный анализ, рассчитал retention, провел RFM сегментацию покупателей. Определил клчевые метрики, визуализировал их и построил дашборд.
+
+Чему я научился: 
+- [x] сизучать данные в разных разрезах;
+- [x] проводить когортный анализ с использованием Python;
+- [x] рассчитывать retention;
+- [x] проводить  RFM сегментацию (углубленно разобрался в теме);
+- [x] строить дашборды с использованием matplottlib и seaborn 
+
+Дашборд показан на картинке ниже:
+
+![alt text](https://github.com/MadGot/Portfolio/blob/main/images/UK_retail.png)
